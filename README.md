@@ -28,7 +28,8 @@ React Native - Redux - Tailwind - NodeJS - Express - PostgreSQL - Passport
 <img align="left" width= "150px" margin= "20px" display = "inline" src='./word-game/Presentancion.png' />
 <img align="left" width= "150px" margin= "20px" display = "inline" src='./word-game/stats.png' />
 
-
+<br>
+<br>
 ____________
 
 ## Dogs Api 
