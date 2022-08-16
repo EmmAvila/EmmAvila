@@ -4,7 +4,7 @@ My profile
     <img src='cerebro.png' />
 </p> -->
 
-# Hi, I´m Emmanuel! 👾
+# Hi, I´m Emmanuel! 
 ### Electrical Engineer, Full stack web developer* 
 
 I really enjoy learning from others and by myself. We can make great things alone, 
