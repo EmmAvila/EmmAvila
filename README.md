@@ -30,17 +30,18 @@ React Native - Redux - Tailwind - NodeJS - Express - PostgreSQL - Passport
 
 <br>
 <br>
+<p> eyteeyyeyeeyeye</p>
 ____________
 
 ## Dogs Api 
-
+<br>
 📌 Developed with the aim of improving administrative channels of Henry´s community
 
 🚀 Technologies: 
 React - Redux - NodeJS- Express - PostgreSQL - Sequelize
 
-<img align="left" margin= "20px" width= "350px" src='./dogs/landing.png' />
-<img align="left" margin= "20px" width= "350px" src='./dogs/home.png' />
+<img align="left" margin= "20px" width= "350px" display = "block" src='./dogs/landing.png' />
+<img align="left" margin= "20px" width= "350px" display = "inline" src='./dogs/home.png' />
 <img align="center" margin= "20px" width= "350px" src='./dogs/detail.png' />
 
 
