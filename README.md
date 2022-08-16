@@ -23,9 +23,9 @@ ____________________
 🚀 Technologies: 
 React Native - Redux - Tailwind - NodeJS - Express - PostgreSQL - Passport
 
-<img align="center" width= "150px" margin= "20px" display = "inline" src='./word-game/game.png' />
+<img align="left" width= "150px" margin= "20px" display = "inline" src='./word-game/game.png' />
 <img align="center" width= "150px" margin= "20px" display = "inline" src='./word-game/Profile.png' />
-<img align="center" width= "150px" margin= "20px" display = "inline" src='./word-game/Presentancion.png' />
+<img align="left" width= "150px" margin= "20px" display = "inline" src='./word-game/Presentancion.png' />
 <img align="center" width= "150px" margin= "20px" display = "inline" src='./word-game/stats.png' />
 
 
