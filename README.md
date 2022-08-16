@@ -24,9 +24,9 @@ ____________________
 React Native - Redux - Tailwind - NodeJS - Express - PostgreSQL - Passport
 
 <img align="left" width= "150px" margin= "20px" display = "inline" src='./word-game/game.png' />
-<img align="center" width= "150px" margin= "20px" display = "inline" src='./word-game/Profile.png' />
+<img align="left" width= "150px" margin= "20px" display = "inline" src='./word-game/Profile.png' />
 <img align="left" width= "150px" margin= "20px" display = "inline" src='./word-game/Presentancion.png' />
-<img align="center" width= "150px" margin= "20px" display = "inline" src='./word-game/stats.png' />
+<img align="left" width= "150px" margin= "20px" display = "inline" src='./word-game/stats.png' />
 
 
 ____________
@@ -38,8 +38,8 @@ ____________
 🚀 Technologies: 
 React - Redux - NodeJS- Express - PostgreSQL - Sequelize
 
-<img align="center" margin= "20px" width= "350px" src='./dogs/landing.png' />
-<img align="center" margin= "20px" width= "350px" src='./dogs/home.png' />
+<img align="left" margin= "20px" width= "350px" src='./dogs/landing.png' />
+<img align="left" margin= "20px" width= "350px" src='./dogs/home.png' />
 <img align="center" margin= "20px" width= "350px" src='./dogs/detail.png' />
 
 
