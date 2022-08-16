@@ -24,9 +24,9 @@ ____________________
 React Native - Redux - Tailwind - NodeJS - Express - PostgreSQL - Passport
 ~~~
 <img align="left" width= "150px" margin= "20px"  src='./word-game/game.png' />
-<img align="left" width= "150px" margin= "20px"  src='./word-game/Profile.png' />
+<img align="center" width= "150px" margin= "20px"  src='./word-game/Profile.png' />
 <img align="left" width= "150px" margin= "20px"  src='./word-game/Presentancion.png' />
-<img align="left" width= "150px" margin= "20px"  src='./word-game/stats.png' />  
+<img align="center" width= "150px" margin= "20px"  src='./word-game/stats.png' />  
 
 
 ____________
