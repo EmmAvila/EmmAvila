@@ -14,12 +14,15 @@ but I think that as a team we can do even bigger and better things.
 👇
  
 ____________________
-## Word-Game  
+## World-Game  
 
 ~~~
 📌 A mobile game developed to make geography more fun
 
-In this aplication I learn how to use React Native, I also learn about front-end libraries like Material-UI and Tailwind
+In this aplication I learn how to use React Native, I also learn about front-end libraries like Material-UI and Tailwind.
+Teamwork was essential to achieve all objectives of this application
+
+
 
 🚀 Technologies: 
 React Native - Redux - Tailwind - NodeJS - Express - PostgreSQL - Passport
