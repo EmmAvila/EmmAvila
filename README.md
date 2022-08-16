@@ -17,31 +17,29 @@ but I think that as a team we can do even bigger and better things.
 ____________________
 ## Word-Game  
 
-
+~~~
 📌 A mobile game developed to make geography more fun
 
 🚀 Technologies: 
 React Native - Redux - Tailwind - NodeJS - Express - PostgreSQL - Passport
+~~~
+<img align="left" width= "150px" margin= "20px"  src='./word-game/game.png' />
+<img align="left" width= "150px" margin= "20px"  src='./word-game/Profile.png' />
+<img align="left" width= "150px" margin= "20px"  src='./word-game/Presentancion.png' />
+<img align="left" width= "150px" margin= "20px"  src='./word-game/stats.png' />  
 
-<img align="left" width= "150px" margin= "20px" display = "inline" src='./word-game/game.png' />
-<img align="left" width= "150px" margin= "20px" display = "inline" src='./word-game/Profile.png' />
-<img align="left" width= "150px" margin= "20px" display = "inline" src='./word-game/Presentancion.png' />
-<img align="left" width= "150px" margin= "20px" display = "inline-block" src='./word-game/stats.png' />
 
-<br>
-<br>
-<p> eyteeyyeyeeyeye</p>
 ____________
 
 ## Dogs Api 
-<br>
+~~~
 📌 Developed with the aim of improving administrative channels of Henry´s community
 
 🚀 Technologies: 
 React - Redux - NodeJS- Express - PostgreSQL - Sequelize
-
-<img align="left" margin= "20px" width= "350px" display = "block" src='./dogs/landing.png' />
-<img align="left" margin= "20px" width= "350px" display = "inline" src='./dogs/home.png' />
+~~~
+<img align="left" margin= "20px" width= "350px"  src='./dogs/landing.png' />
+<img align="left" margin= "20px" width= "350px"  src='./dogs/home.png' />
 <img align="center" margin= "20px" width= "350px" src='./dogs/detail.png' />
 
 
