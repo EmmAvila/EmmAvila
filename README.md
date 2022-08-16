@@ -12,13 +12,14 @@ but I think that as a team we can do even bigger and better things.
 
 ## Checkout my work
 👇
-👇
-👇   
+ 
 ____________________
 ## Word-Game  
 
 ~~~
 📌 A mobile game developed to make geography more fun
+
+In this aplication I learn how to use React Native, I also learn about front-end libraries like Material-UI and Tailwind
 
 🚀 Technologies: 
 React Native - Redux - Tailwind - NodeJS - Express - PostgreSQL - Passport
@@ -33,7 +34,9 @@ ____________
 
 ## Dogs Api 
 ~~~
-📌 Developed with the aim of improving administrative channels of Henry´s community
+📌 Individual proyect where you can find a dog by its race, name, weight or height
+
+With this proyect I improve my knowledge on React, Redux, Express and more...
 
 🚀 Technologies: 
 React - Redux - NodeJS- Express - PostgreSQL - Sequelize
