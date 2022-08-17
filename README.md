@@ -48,9 +48,9 @@ how is conected back-end and front-end in a Single Page Aplication
 React - Redux - NodeJS- Express - PostgreSQL - Sequelize
 ```
 <div display = "flex" flex-direction = "column" align-items = "space-around" justify-content = "center">
-<img  margin= "20px" width= "450px"  src='./dogs/landing.png' />
-<img  margin= "20px" width= "450px"  src='./dogs/home.png' />
-<img  margin= "20px" width= "450px" src='./dogs/detail.png' />
+<img  margin= "20px" width= "650px"  src='./dogs/landing.png' />
+<img  margin= "20px" width= "650px"  src='./dogs/home.png' />
+<img  margin= "20px" width= "650px" src='./dogs/detail.png' />
 </div>
 
 
