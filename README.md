@@ -1,3 +1,5 @@
+<p align ="center">&nbsp;<img   align ="center"  height="160" width = 220px  src="./word-game/monophy.gif" alt="EmmAvila" /></p>
+
 # Hi, I´m Emmanuel!
 
 ### Electrical Engineer, Full stack web developer\*
@@ -7,10 +9,37 @@ I am committed and very responsible.
 
 We can make great things alone, but I think that as a team we can do even bigger and better things.
 
-## Checkout some of my proyects 🛠
+---
+
+## ⚡Languages and Tools:
+
+_Front_
+
+◕ <a href="https://www.w3.org/html/" target="_blank"> HTML5 </a> ◕ <a href="https://www.w3schools.com/css/" target="_blank"> CSS</a>
+◕ <a href="https://reactjs.org/" target="_blank">ReactJS</a> ◕ <a href="https://reactnative.dev/" target="_blank">React Native</a> ◕ <a href="https://redux.js.org" target="_blank"> Redux </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> JavaScript </a> ◕ <a href="https://material-ui.com/" target="_blank"> MaterialUI </a> ◕ <a href="https://tailwindcss.com/" target="_blank"> Tailwind</a>
+
+_Back_
+
+◕ <a href="https://www.postgresql.org" target="_blank"> PostgreSQL </a> ◕ <a href="https://nodejs.org" target="_blank"> NodeJS </a>
+◕ <a href="https://expressjs.com" target="_blank"> ExpressJS </a><a href="https://socket.io/" target="_blank"> Socket.IO </a>
 
 ---
-## Dogs Api
+
+## 📫 CONTACT ME
+
+<!-- Want to work together? <br>
+Contact me! <br> -->
+📧 e.avila.casta@gmail.com
+
+<a href="linkedin.com/in/emmanuel-avila-dev" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/emmanuel-avila-dev" height="30" width="40" />LinkedIn</a>
+
+---
+
+## Checkout some of my proyects 🛠
+
+
+## - Dogs Api
 
 ```
 📌 Individual proyect where you can find a dog by its race, name, weight or height
@@ -30,7 +59,7 @@ React - Redux - NodeJS- Express - PostgreSQL - Sequelize
 
 ---
 
-## World-Game
+## - World-Game
 
 ```
 📌 A mobile game developed to make geography more fun
@@ -53,27 +82,3 @@ React Native - Redux - Tailwind - NodeJS - Express - PostgreSQL - Passport
 <img  width= "150px" margin= "20px"  src='./word-game/stats.png' />  
 </div>
 
----
-
-## ⚡Languages and Tools:
-
-_Front_
-
-◕ <a href="https://www.w3.org/html/" target="_blank"> HTML5 </a> ◕ <a href="https://www.w3schools.com/css/" target="_blank"> CSS</a>
-◕ <a href="https://reactjs.org/" target="_blank">ReactJS</a> ◕ <a href="https://reactnative.dev/" target="_blank">React Native</a> ◕ <a href="https://redux.js.org" target="_blank"> Redux </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> JavaScript </a> ◕ <a href="https://material-ui.com/" target="_blank"> MaterialUI </a> ◕ <a href="https://tailwindcss.com/" target="_blank"> Tailwind</a>
-
-_Back_
-
-◕ <a href="https://www.postgresql.org" target="_blank"> PostgreSQL </a> ◕ <a href="https://nodejs.org" target="_blank"> NodeJS </a>
-◕ <a href="https://expressjs.com" target="_blank"> ExpressJS </a><a href="https://socket.io/" target="_blank"> Socket.IO </a>
-
----
-
-## 📫 CONTACT ME
-
-Want to work together? <br>
-Contact me! <br>
-📧 e.avila.casta@gmail.com
-
-<a href="linkedin.com/in/emmanuel-avila-dev" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/emmanuel-avila-dev" height="30" width="40" />LinkedIn</a>
