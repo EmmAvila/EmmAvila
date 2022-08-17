@@ -75,7 +75,7 @@ skills, also learned new features of web develop tehcnologies we used in this pr
 React Native - Redux - Tailwind - NodeJS - Express - PostgreSQL - Passport
 ```
 
-<div display = "flex" justify-content = "space-around" >
+<div display = "flex" justify-content = "center" >
 <img  width= "150px" margin= "20px"  src='./word-game/game.png' />
 <img  width= "150px" margin= "20px"  src='./word-game/Profile.png' />
 <img  width= "150px" margin= "20px"  src='./word-game/Presentancion.png' />
