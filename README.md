@@ -10,6 +10,25 @@ We can make great things alone, but I think that as a team we can do even bigger
 ## Checkout some of my proyects 🛠
 
 ---
+## Dogs Api
+
+```
+📌 Individual proyect where you can find a dog by its race, name, weight or height
+
+With this proyect I improved my knowledge on React, Redux, Express and also understood 
+how is conected back-end and front-end in a Single Page Aplication
+
+🚀 Technologies:
+React - Redux - NodeJS- Express - PostgreSQL - Sequelize
+```
+<div display = "flex" flex-direction = "column" align-items = "space-around" justify-content = "center">
+<img  margin= "20px" width= "650px"  src='./dogs/landing.png' />
+<img  margin= "20px" width= "650px"  src='./dogs/home.png' />
+<img  margin= "20px" width= "650px" src='./dogs/detail.png' />
+</div>
+
+
+---
 
 ## World-Game
 
@@ -35,24 +54,6 @@ React Native - Redux - Tailwind - NodeJS - Express - PostgreSQL - Passport
 </div>
 
 ---
-
-## Dogs Api
-
-```
-📌 Individual proyect where you can find a dog by its race, name, weight or height
-
-With this proyect I improved my knowledge on React, Redux, Express and also understood 
-how is conected back-end and front-end in a Single Page Aplication
-
-🚀 Technologies:
-React - Redux - NodeJS- Express - PostgreSQL - Sequelize
-```
-<div display = "flex" flex-direction = "column" align-items = "space-around" justify-content = "center">
-<img  margin= "20px" width= "650px"  src='./dogs/landing.png' />
-<img  margin= "20px" width= "650px"  src='./dogs/home.png' />
-<img  margin= "20px" width= "650px" src='./dogs/detail.png' />
-</div>
-
 
 ## ⚡Languages and Tools:
 
