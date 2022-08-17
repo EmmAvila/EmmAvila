@@ -27,7 +27,7 @@ skills, also learned new features of web develop tehcnologies we used in this pr
 React Native - Redux - Tailwind - NodeJS - Express - PostgreSQL - Passport
 ```
 
-<div display = "flex" justify-content = "space-around">
+<div display = "flex" justify-content = "space-around" >
 <img  width= "150px" margin= "20px"  src='./word-game/game.png' />
 <img  width= "150px" margin= "20px"  src='./word-game/Profile.png' />
 <img  width= "150px" margin= "20px"  src='./word-game/Presentancion.png' />
@@ -47,7 +47,7 @@ how is conected back-end and front-end in a Single Page Aplication
 🚀 Technologies:
 React - Redux - NodeJS- Express - PostgreSQL - Sequelize
 ```
-<div display = "flex" flex-direction = "column" justify-items = "space-around">
+<div display = "flex" flex-direction = "column" align-items = "space-around" justify-content = "center">
 <img  margin= "20px" width= "450px"  src='./dogs/landing.png' />
 <img  margin= "20px" width= "450px"  src='./dogs/home.png' />
 <img  margin= "20px" width= "450px" src='./dogs/detail.png' />
